@@ -3,6 +3,7 @@
 ## Research Question: Do states that have more hate groups see more mass shootings?
 - This research is limited to two open-sourced datasets - both imported from [Enigma Public](https://public.enigma.com)
 - As such, there are many variables that are not analyzed. My goal is not to show if hate groups do or do not lead to mass shootings, but to determine if the instances of mass shootings increase or decrease with the number of hate groups in close proximity (ie. are there clusters of hateful influences in certain areas that have proportionally more mass shootings or not)
+- Inferences will be made through a simple linear regression (see Python analysis) and through plot.ly (see chart below)
 ## Data Sources
 | Name | Source Identifier | Data | Notes |
 |------|------|------|------|
