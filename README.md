@@ -8,3 +8,4 @@
 |------|------|------|------|
 |Mother Jones - Mass Shootings| b71d85e2-248e-461f-bd97-c10638207f9c|[MotherJones](https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data/)| [Data Collection Methodology](https://www.motherjones.com/politics/2012/07/mass-shootings-map/)|
 |Southern Poverty Law Center - US Hate Groups|5fe9c57c-68ad-4996-91ab-935debe05412|[SPLC](https://splc.demo.socrata.com/dataset/Confederate-Named-Places/cuzb-ma4p)|NA|
+
