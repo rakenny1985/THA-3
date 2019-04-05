@@ -15,3 +15,5 @@
     <a href="https://plot.ly/~Ryannnnnnnnn/4/?share_key=ttMywOuo3pHmQeSgOecqeR" target="_blank" title="Plot 4" style="display: block; text-align: center;"><img src="https://plot.ly/~Ryannnnnnnnn/4.png?share_key=ttMywOuo3pHmQeSgOecqeR" alt="Plot 4" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="Ryannnnnnnnn:4" sharekey-plotly="ttMywOuo3pHmQeSgOecqeR" src="https://plot.ly/embed.js" async></script>
 </div>
+
+[link to plot.ly analysis](https://plot.ly/~Ryannnnnnnnn/4/)
