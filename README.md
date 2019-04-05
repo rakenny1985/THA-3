@@ -10,3 +10,8 @@
 |Southern Poverty Law Center - US Hate Groups|5fe9c57c-68ad-4996-91ab-935debe05412|[SPLC](https://splc.demo.socrata.com/dataset/Confederate-Named-Places/cuzb-ma4p)|NA|
 ## Data Dictionary
 - Please refer to .pdf documents in this repository for variable dictionaries for both datasets. These documents include the variables that were omitted from the original .csv versions (raw data from Enigma Public) to the clean .xlsx versions used for Python analysis. 
+## Plot.ly Analysis
+<div>
+    <a href="https://plot.ly/~Ryannnnnnnnn/4/?share_key=ttMywOuo3pHmQeSgOecqeR" target="_blank" title="Plot 4" style="display: block; text-align: center;"><img src="https://plot.ly/~Ryannnnnnnnn/4.png?share_key=ttMywOuo3pHmQeSgOecqeR" alt="Plot 4" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="Ryannnnnnnnn:4" sharekey-plotly="ttMywOuo3pHmQeSgOecqeR" src="https://plot.ly/embed.js" async></script>
+</div>
